@@ -1,7 +1,14 @@
-# vue-project-staging
-基于vue2项目开发的框架 自定义好路由  .vue模板 结合阿里weex打包app移动
-npm install \<br>
-npm run serve 	\<br>
-npm run watch \<br>
+# 基于weex+vue2 支持web端 移动移动移动端
+
+运行方式
+   -npm install
+  - npm run serve
+  - npm run watch
+
+# 描述 
+
+  -使用vue2路由和嵌套路由
+  -引入阿里weex框架进行app端打包
+
 
 
